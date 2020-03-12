@@ -1,0 +1,9 @@
+c:\users\litao\documents\visual studio 2012\Projects\DrawLine\DrawLine\bin\Debug\DrawLine.exe.config
+c:\users\litao\documents\visual studio 2012\Projects\DrawLine\DrawLine\bin\Debug\DrawLine.exe
+c:\users\litao\documents\visual studio 2012\Projects\DrawLine\DrawLine\bin\Debug\DrawLine.pdb
+c:\users\litao\documents\visual studio 2012\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.csprojResolveAssemblyReference.cache
+c:\users\litao\documents\visual studio 2012\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.Properties.Resources.resources
+c:\users\litao\documents\visual studio 2012\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.csproj.GenerateResource.Cache
+c:\users\litao\documents\visual studio 2012\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.exe
+c:\users\litao\documents\visual studio 2012\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.pdb
+C:\Users\LiTao\documents\visual studio 2012\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.form.resources
